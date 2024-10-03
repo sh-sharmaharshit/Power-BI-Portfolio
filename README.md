@@ -12,3 +12,19 @@ In order to make informed decisions, the insights are created to understand whic
 
 
 Power BI: https://app.powerbi.com/reportEmbed?reportId=e3a9530c-5e54-45e2-8c8f-d5157b904dd1&autoAuth=true&ctid=7a84f492-900b-47a4-a0d4-79ea8583da8b
+<br><br>
+
+
+# 2. Adventure Works
+
+Adventure Works is a bike manufacturer and seller. In this project I analyzed their sales and returns data
+
+A total of 4 visualization pages were created for this report, these include:
+* Executive Dashboard: Home to company wide KPI’s, Trending Revenue, Orders as well as several lists of the top selling products.
+* Map: This is an interactive visual of the company’s order distribution throughout the world broken down by continent.
+* Product Detail: This page provided an in-depth and interactive look at the relationship between the products of Adventure Works and their respective revenue, orders, profit, return percentage and returns.
+* Customer Detail: Multiple visuals of the relationship between customers and business metrics can be found on this page.
+
+![image](https://github.com/user-attachments/assets/b5ec4bb8-5114-42f9-ac15-541f8547b843)
+
+Power BI: https://app.powerbi.com/reportEmbed?reportId=1f1a739a-ca03-45d2-9f5d-9e3771ef4f52&autoAuth=true&ctid=7a84f492-900b-47a4-a0d4-79ea8583da8b
