@@ -11,7 +11,7 @@ In order to make informed decisions, the insights are created to understand whic
 ![image](https://github.com/user-attachments/assets/91e0e762-5583-4163-9818-9b3f9f1e75f2)
 
 
-Power BI: https://app.powerbi.com/reportEmbed?reportId=e3a9530c-5e54-45e2-8c8f-d5157b904dd1&autoAuth=true&ctid=7a84f492-900b-47a4-a0d4-79ea8583da8b
+Power BI: https://app.powerbi.com/view?r=eyJrIjoiZDZmNWU1MTUtNjQ4YS00MDBlLTkzNWYtNDBmOWEwZjc3ZTg3IiwidCI6IjdhODRmNDkyLTkwMGItNDdhNC1hMGQ0LTc5ZWE4NTgzZGE4YiIsImMiOjN9
 <br><br>
 
 
@@ -27,4 +27,4 @@ A total of 4 visualization pages were created for this report, these include:
 
 ![image](https://github.com/user-attachments/assets/b5ec4bb8-5114-42f9-ac15-541f8547b843)
 
-Power BI: https://app.powerbi.com/reportEmbed?reportId=1f1a739a-ca03-45d2-9f5d-9e3771ef4f52&autoAuth=true&ctid=7a84f492-900b-47a4-a0d4-79ea8583da8b
+Power BI: https://app.powerbi.com/view?r=eyJrIjoiNjA4YThjNzMtZmE5OC00NTlhLTg0ZTMtYjYxMTc3NmZjODkxIiwidCI6IjdhODRmNDkyLTkwMGItNDdhNC1hMGQ0LTc5ZWE4NTgzZGE4YiIsImMiOjN9
